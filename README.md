@@ -1,49 +1,65 @@
-<h2 align="left">Hi 👋! My name is Madan Thevar and I'm a student passionate in Business Analytics, from ....</h2>
+# Hi there, I'm Madan Thevar 👋
 
-###
+![Hi, My Name Animation](https://github.com/your-username/your-repo/raw/main/assets/your-animation.gif)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 👨‍💻 About Me
 
-###
+- 🔭 I’m currently working as a Data Analyst at [Company Name].
+- 🌱 I’m currently learning advanced data visualization techniques and machine learning.
+- 👯 I’m looking to collaborate on data science projects and data engineering.
+- 💬 Ask me about data analysis, Python, SQL, and data visualization.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing chess and solving data puzzles!
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 📊 Skills
 
-###
+- **Programming Languages**: Python, R, SQL
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Data Manipulation**: Pandas, NumPy
+- **Machine Learning**: Scikit-Learn, XGBoost
+- **Databases**: MySQL, PostgreSQL
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 📈 Projects
 
-###
+### [Project Name 1](https://github.com/your-username/project1)
+- **Description**: A brief description of the project. 
+- **Technologies Used**: Python, SQL, Tableau
+- **Highlights**: Achievements or results of the project.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### [Project Name 2](https://github.com/your-username/project2)
+- **Description**: A brief description of the project. 
+- **Technologies Used**: R, Power BI
+- **Highlights**: Achievements or results of the project.
 
-###
+## 🛠️ Tools and Technologies
 
-<br clear="both">
+- **Data Analysis**: Jupyter Notebook, Google Colab
+- **Cloud Services**: AWS, Azure
+- **Version Control**: Git, GitHub
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🌟 GitHub Stats
 
-###
+![Madan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+## 🚀 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [Email](mailto:your-email@example.com)
+
+<!--
+**MadanThevar/MadanThevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
