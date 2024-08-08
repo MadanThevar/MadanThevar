@@ -2,6 +2,8 @@
 
 ## 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue?style=flat-square)
+
 Welcome to my GitHub profile! As an incoming graduate student, I’m passionate about diving into the world of data to uncover insights and drive impactful decisions. My interests span business analytics, data analysis, business intelligence, and data science.
 
 ### ✨ What I’m Excited About:
@@ -11,6 +13,7 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 - **💻 Data Science**: Leveraging machine learning and statistical techniques to solve real-world problems.
 
 ### 🚀 My Skills:
+
 <p align="center">
   <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" width="80" />
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="80" />
@@ -36,17 +39,20 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
   <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MsOffice" width="55" />
 </p>
 
+
 ### 🌱 Currently Learning:
 - **📚 Advanced Machine Learning**: Exploring deep learning and neural networks.
 - **🛠 Data Engineering**: Understanding data pipelines and ETL processes.
 - **🌐 Big Data Technologies**: Gaining insights into Hadoop and Spark.
 
 ### 🧑‍💻 Let’s Connect:
-- **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)**: Connect with me for networking and opportunities.
-- **📧 [Email](mailto:your-email@example.com)**: Reach out for collaborations or inquiries.
+- **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)** Connect with me for networking and opportunities.
+- **📧 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Madanshiva2622@gmail.com)**: Reach out for collaborations or inquiries.
 
 ### 🔭 Explore My Projects:
 - **📊 [Business Analytics Dashboard](https://github.com/your-username/your-project-1)**: A dynamic dashboard visualizing key business metrics.
 - **🔮 [Predictive Modeling for Sales Forecasting](https://github.com/your-username/your-project-2)**: Analyzing sales data to predict future trends.
+
+
 
 Thank you for visiting my profile! Feel free to explore my repositories to see how I’m applying my skills to real-world challenges. 🚀
