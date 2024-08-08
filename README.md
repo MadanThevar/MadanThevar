@@ -2,8 +2,6 @@
 
 ## 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst
 
-![Page Views](https://img.shields.io/badge/Views-1-blue?style=flat-square&logo=data:image/png;base64,YOUR_BASE64_ENCODED_IMAGE)
-
 Welcome to my GitHub profile! As an incoming graduate student, I’m passionate about diving into the world of data to uncover insights and drive impactful decisions. My interests span business analytics, data analysis, business intelligence, and data science.
 
 ### ✨ What I’m Excited About:
@@ -39,6 +37,22 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
   <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MsOffice" width="55" />
 </p>
 
+### 🛠️ IDEs & Tools:
+
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="60" />
+  <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter Notebook" width="60" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s" alt="SQL Server" width="55" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Collab" width="100" />
+</p>
+
+### 📋 Project Management Tools:
+<p align="center">
+  <img src="https://mattermost.com/wp-content/uploads/2021/03/5_z16TbH_400x400.jpg" alt="Confluence" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/880px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" alt="Microsoft Project" width="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="JIRA" width="60" />
+</p>
 
 ### 🌱 Currently Learning:
 - **📚 Advanced Machine Learning**: Exploring deep learning and neural networks.
@@ -47,7 +61,7 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 
 ### 🧑‍💻 Let’s Connect:
 - **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)** Connect with me for networking and opportunities.
-- **📧 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Madanshiva2622@gmail.com)**: Reach out for collaborations or inquiries.
+- **📧 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Madanshiva2622@gmail.com)** Reach out for collaborations or inquiries.
 
 ### 🔭 Explore My Projects:
 - **📊 [Business Analytics Dashboard](https://github.com/your-username/your-project-1)**: A dynamic dashboard visualizing key business metrics.
