@@ -2,7 +2,7 @@
 
 ## 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-1000-blue?style=flat-square)
+![Page Views](https://img.shields.io/badge/Views-1-blue?style=flat-square&logo=data:image/png;base64,YOUR_BASE64_ENCODED_IMAGE)
 
 Welcome to my GitHub profile! As an incoming graduate student, I’m passionate about diving into the world of data to uncover insights and drive impactful decisions. My interests span business analytics, data analysis, business intelligence, and data science.
 
