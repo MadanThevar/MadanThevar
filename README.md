@@ -33,7 +33,7 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="60" />
   <img src="https://staging.svgrepo.com/show/34756/snowflake.svg" alt="SnowFlake" width="60" />
   <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" alt="MsExcel" width="100" />
-  <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MsOffice" width="60" />
+  <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="MsOffice" width="55" />
 </p>
 
 ### 🌱 Currently Learning:
