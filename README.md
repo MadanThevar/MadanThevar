@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi, My Name is [Your Name] 👋
 
+<p align="center">Hi, My Name is [Your Name]</p>
+
+<p align="center">
+  <img src="URL_TO_YOUR_GIF" alt="Hi, My Name Animation" width="400" />
+</p>
 <!--
 **MadanThevar/MadanThevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
