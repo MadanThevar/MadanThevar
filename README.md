@@ -41,8 +41,8 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 - **🛠 Data Engineering**: Understanding data pipelines and ETL processes.
 - **🌐 Big Data Technologies**: Gaining insights into Hadoop and Spark.
 
-### 🌟 Let’s Connect:
-- **🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)**: Connect with me for networking and opportunities.
+### 🧑‍💻 Let’s Connect:
+- **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)**: Connect with me for networking and opportunities.
 - **📧 [Email](mailto:your-email@example.com)**: Reach out for collaborations or inquiries.
 
 ### 🔭 Explore My Projects:
