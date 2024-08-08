@@ -1,4 +1,4 @@
-# Hi, My Name is [Your Name] 👋
+# Hi, My Name is Madan Thevar 👋
 
 <p align="center">Hi, My Name is [Your Name]</p>
 
