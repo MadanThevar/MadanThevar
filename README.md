@@ -64,8 +64,7 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 - **🌐 Big Data Technologies**: Gaining insights into Hadoop and Spark.
 
 ### 🧑‍💻 Let’s Connect:
-- **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)** 
-- **📧 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Madanshiva2622@gmail.com)** 
+- **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)**  
 
 ### 🔭 Explore My Projects:
 - **📊 [Business Analytics Dashboard](https://github.com/your-username/your-project-1)**: A dynamic dashboard visualizing key business metrics.
