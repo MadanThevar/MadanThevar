@@ -1,8 +1,7 @@
 ![Banner](https://github.com/MadanThevar/MadanThevar/blob/main/Hello,%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).gif?raw=true)
 
-# 
 <p align="center">
-  <img src="https://s4.ezgif.com/tmp/ezgif-4-eb18ae9b7a.gif" alt="Hi, I'm Madan Thevar" width="600px" />
+<h1>🌟 Hi, I'm Madan Thevar 👋</h1>
 </p>
 
 # 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst | Business Intelliegence
