@@ -1,5 +1,4 @@
 ![Banner](https://github.com/MadanThevar/MadanThevar/blob/main/Hello,%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).gif?raw=true)
-
 # 
   <p align="center">
   <img src="https://s4.ezgif.com/tmp/ezgif-4-fe59121b49.gif" alt="Hi, I'm Madan Thevar" width="600px" />
