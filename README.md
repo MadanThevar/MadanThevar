@@ -60,9 +60,26 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 </p>
 
 ### 🌱 Currently Learning:
-- **📚 Advanced Machine Learning**: Exploring deep learning and neural networks.
-- **🛠 Data Engineering**: Understanding data pipelines and ETL processes.
-- **🌐 Big Data Technologies**: Gaining insights into Hadoop and Spark.
+
+- **📚 Advanced Machine Learning**:
+  - **Exploring Deep Learning and Neural Networks**: Delving into more complex structures such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) to handle image and sequential data, respectively.
+  - **Reinforcement Learning**: Studying how agents operate in an environment to maximize the notion of cumulative reward.
+  - **Explainable AI (XAI)**: Focusing on techniques that make the outputs of machine learning models more understandable to humans.
+
+- **🛠 Data Engineering**:
+  - **Understanding Data Pipelines and ETL Processes**: Learning to design robust, scalable data pipelines using modern tools like Apache Airflow and Prefect to automate workflows.
+  - **Data Governance and Quality**: Ensuring that data is accurate, consistent, and used responsibly, especially in compliance-heavy industries.
+  - **Streaming Data Processing**: Working with real-time data streams using Apache Kafka and Apache Flink to handle continuous inputs of data efficiently.
+
+- **🌐 Big Data Technologies**:
+  - **Gaining Insights into Hadoop and Spark**: Enhancing skills in managing and processing big data using the Hadoop ecosystem, including HDFS, YARN, and MapReduce, along with Apache Spark for faster in-memory processing capabilities.
+  - **NoSQL Databases**: Exploring NoSQL technology for scalability and performance improvements over traditional relational databases, with focus on MongoDB, Cassandra, and Neo4j.
+  - **Cloud Big Data Solutions**: Learning about cloud-native solutions like Amazon Redshift, Google BigQuery, and Microsoft Azure HDInsight which provide massive scalability and performance on-demand.
+
+### 🔍 Trending Methods to Learn:
+- **Federated Learning**: A machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients.
+- **Automated Machine Learning (AutoML)**: Studying tools and techniques that automate the process of selecting the best models, configurations, and pre-processing techniques for specific data science tasks.
+- **Ethics and AI**: Understanding the ethical implications of AI and machine learning, focusing on developing and implementing algorithms responsibly to prevent bias and ensure fairness.
 
 ### 🧑‍💻 Let’s Connect:
 - **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)**  
