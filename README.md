@@ -10,7 +10,6 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 - **🧩 Problem Solving**: Applying data-driven methods to tackle complex challenges.
 - **💻 Data Science**: Leveraging machine learning and statistical techniques to solve real-world problems.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadanThevar&theme=light&show_icons=true)
 
 ### 🚀 My Skills:
 
