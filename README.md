@@ -5,7 +5,6 @@
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=MadanThevar&color=blue&style=flat-square)
-
 # 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst
 
 Welcome to my GitHub profile! As an incoming graduate student, I’m passionate about diving into the world of data to uncover insights and drive impactful decisions. My interests span business analytics, data analysis, business intelligence, and data science.
