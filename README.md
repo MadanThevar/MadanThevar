@@ -5,15 +5,15 @@
 </p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=MadanThevar&color=blue&style=flat-square)
-# 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst
+# 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst | Business Intelliegence
 
-Welcome to my GitHub profile! As an incoming graduate student, I’m passionate about diving into the world of data to uncover insights and drive impactful decisions. My interests span business analytics, data analysis, business intelligence, and data science.
+Welcome to my GitHub profile! As an incoming graduate student, I’m passionate about diving into the world of data to uncover insights and drive impactful decisions. My interests span business analytics, data analysis, business intelligence, data science and project management.
 
 ### ✨ What I’m Excited About:
-- **🔍 Data Analysis**: Discovering trends and patterns to enhance business strategies.
-- **📈 Business Intelligence**: Designing dashboards and reports to visualize data effectively.
-- **🧩 Problem Solving**: Applying data-driven methods to tackle complex challenges.
-- **💻 Data Science**: Leveraging machine learning and statistical techniques to solve real-world problems.
+- **🔍 Data Analysis**: Discovering trends and patterns to enhance business strategies and learning some of the latest tools now used by data analysts such as knowledge about Hex, Apache Superset and DataBricks. 
+- **📈 Business Intelligence**: Designing dashboards and reports to visualize data effectively and also learning some of the unique Bi tools such as Qlik Sense, SAP and Looker
+- **🧩 Problem Solving**: Applying data-driven methods to tackle complex challenges found in machine learning anamolies detection, Simulation of What-If Analysis and Root Cause Analysis (RCA)**: A methodical approach used to identify the underlying cause of a problem rather than addressing the superficial symptoms
+- **💻 Data Science**: Leveraging machine learning and statistical techniques to solve real-world problems expanding my interest to learn more about Edge Computing for Real-time Analytics**: Processing data near the source to decrease latency and enhance the speed of data analysis. This is particularly important in IoT applications where real-time processing can drive immediate actions and Interactive Data Visualization utilizing sophisticated visualization tools and platforms to represent complex datasets in intuitive ways that enhance understanding and facilitate deeper business insights.
 
 
 ### 🚀 My Skills:
