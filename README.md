@@ -10,6 +10,8 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 - **🧩 Problem Solving**: Applying data-driven methods to tackle complex challenges.
 - **💻 Data Science**: Leveraging machine learning and statistical techniques to solve real-world problems.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadanThevar&theme=light&show_icons=true)
+
 ### 🚀 My Skills:
 
 <p align="center">
@@ -60,8 +62,8 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 - **🌐 Big Data Technologies**: Gaining insights into Hadoop and Spark.
 
 ### 🧑‍💻 Let’s Connect:
-- **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)** Connect with me for networking and opportunities.
-- **📧 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Madanshiva2622@gmail.com)** Reach out for collaborations or inquiries.
+- **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)** 
+- **📧 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:Madanshiva2622@gmail.com)** 
 
 ### 🔭 Explore My Projects:
 - **📊 [Business Analytics Dashboard](https://github.com/your-username/your-project-1)**: A dynamic dashboard visualizing key business metrics.
