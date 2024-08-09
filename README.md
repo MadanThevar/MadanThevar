@@ -84,10 +84,4 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 ### 🧑‍💻 Let’s Connect:
 - **🔗 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madanthevar/)**  
 
-### 🔭 Explore My Projects:
-- **📊 [Business Analytics Dashboard](https://github.com/your-username/your-project-1)**: A dynamic dashboard visualizing key business metrics.
-- **🔮 [Predictive Modeling for Sales Forecasting](https://github.com/your-username/your-project-2)**: Analyzing sales data to predict future trends.
-
-
-
 Thank you for visiting my profile! Feel free to explore my repositories to see how I’m applying my skills to real-world challenges. 🚀
