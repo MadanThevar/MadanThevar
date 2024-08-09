@@ -1,9 +1,11 @@
 ![Banner](https://github.com/MadanThevar/MadanThevar/blob/main/Hello,%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).gif?raw=true)
 
+# 
+  <p align="center">
+  <img src="https://s4.ezgif.com/tmp/ezgif-4-fe59121b49.gif" alt="Hi, I'm Madan Thevar" width="600px" />
+</p>
 
-# 🌟 Hi, I'm Madan Thevar 👋
-
-## 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst
+# 🎓 Incoming Business Analyst | Data Enthusiast | Aspiring Data Analyst
 
 Welcome to my GitHub profile! As an incoming graduate student, I’m passionate about diving into the world of data to uncover insights and drive impactful decisions. My interests span business analytics, data analysis, business intelligence, and data science.
 
