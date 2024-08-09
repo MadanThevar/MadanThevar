@@ -1,4 +1,4 @@
-![Banner](https://github.com/MadanThevar/MadanThevar/blob/main/Hello,%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you..gif?raw=true)
+![Banner](https://github.com/MadanThevar/MadanThevar/blob/main/Hello,%20my%20name%20is%20Matthew.%20Nice%20to%20meet%20you.%20(2).gif?raw=true)
 
 
 # 🌟 Hi, I'm Madan Thevar 👋
