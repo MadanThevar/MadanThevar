@@ -46,7 +46,6 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="60" />
   <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="Jupyter Notebook" width="60" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwuqWn7rCVhqZ_pSlxwVUzlZtFWaOMdbm28A&s" alt="SQL Server" width="55" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="Google Collab" width="100" />
