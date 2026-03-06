@@ -54,7 +54,6 @@ Welcome to my GitHub profile! As an incoming graduate student, I’m passionate 
 ### 📋 Project Management Tools:
 <p align="center">
   <img src="https://mattermost.com/wp-content/uploads/2021/03/5_z16TbH_400x400.jpg" alt="Confluence" width="60" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019%E2%80%93present%29.svg/880px-Microsoft_Project_%282019%E2%80%93present%29.svg.png" alt="Microsoft Project" width="60" />
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="JIRA" width="60" />
 </p>
 
